@@ -26,18 +26,27 @@ export function FallacyOfDistinction() {
                 within these patterns.
               </p>
               <div className="h-40 border border-stone-300 bg-stone-50 flex items-center justify-center">
-                <div className="w-20 h-20 relative">
-                  <div className="absolute w-1 h-1 bg-stone-400 rounded-full top-0 left-0"></div>
-                  <div className="absolute w-1 h-1 bg-stone-400 rounded-full top-0 right-0"></div>
-                  <div className="absolute w-1 h-1 bg-stone-400 rounded-full bottom-0 left-0"></div>
-                  <div className="absolute w-1 h-1 bg-stone-400 rounded-full bottom-0 right-0"></div>
-                  <div className="absolute w-1 h-1 bg-stone-400 rounded-full top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"></div>
-                  <div className="absolute h-px w-full bg-stone-300 top-1/2 transform -translate-y-1/2"></div>
-                  <div className="absolute w-px h-full bg-stone-300 left-1/2 transform -translate-x-1/2"></div>
-                  <div className="absolute h-px w-1/2 bg-stone-300 top-0 right-0"></div>
-                  <div className="absolute h-px w-1/2 bg-stone-300 bottom-0 left-0"></div>
-                  <div className="absolute w-px h-1/2 bg-stone-300 top-0 left-0"></div>
-                  <div className="absolute w-px h-1/2 bg-stone-300 bottom-0 right-0"></div>
+                <div className="relative w-32 h-32">
+                  {/* Neural network nodes */}
+                  <div className="absolute w-2 h-2 bg-stone-500 rounded-full top-0 left-1/4"></div>
+                  <div className="absolute w-2 h-2 bg-stone-500 rounded-full top-0 right-1/4"></div>
+                  <div className="absolute w-2 h-2 bg-stone-500 rounded-full bottom-0 left-1/4"></div>
+                  <div className="absolute w-2 h-2 bg-stone-500 rounded-full bottom-0 right-1/4"></div>
+                  <div className="absolute w-2 h-2 bg-stone-500 rounded-full top-1/3 left-0"></div>
+                  <div className="absolute w-2 h-2 bg-stone-500 rounded-full top-1/3 right-0"></div>
+                  <div className="absolute w-2 h-2 bg-stone-500 rounded-full bottom-1/3 left-0"></div>
+                  <div className="absolute w-2 h-2 bg-stone-500 rounded-full bottom-1/3 right-0"></div>
+                  <div className="absolute w-3 h-3 bg-stone-700 rounded-full top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"></div>
+
+                  {/* Neural connections */}
+                  <div className="absolute h-px w-1/4 bg-stone-300 top-0 left-1/4 transform rotate-45 origin-left"></div>
+                  <div className="absolute h-px w-1/4 bg-stone-300 top-0 right-1/4 transform -rotate-45 origin-right"></div>
+                  <div className="absolute h-px w-2/5 bg-stone-300 top-1/3 left-2 transform rotate-12"></div>
+                  <div className="absolute h-px w-2/5 bg-stone-300 top-1/3 right-2 transform -rotate-12"></div>
+                  <div className="absolute h-px w-2/5 bg-stone-300 bottom-1/3 left-2 transform -rotate-12"></div>
+                  <div className="absolute h-px w-2/5 bg-stone-300 bottom-1/3 right-2 transform rotate-12"></div>
+                  <div className="absolute h-px w-1/4 bg-stone-300 bottom-0 left-1/4 transform -rotate-45 origin-left"></div>
+                  <div className="absolute h-px w-1/4 bg-stone-300 bottom-0 right-1/4 transform rotate-45 origin-right"></div>
                 </div>
               </div>
             </div>
