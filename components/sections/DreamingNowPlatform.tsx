@@ -15,7 +15,7 @@ export function DreamingNowPlatform() {
           </h3>
 
           <p className="text-lg text-stone-700">
-            Dreaming.now is building a comprehensive platform for the full-stack
+            dreaming.now is building a comprehensive platform for the full-stack
             management of money, with a revolutionary approach to tax systems
             and public budgeting. We believe financial systems should be
             transparent, participatory, and designed to serve communities rather
