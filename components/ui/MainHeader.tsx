@@ -34,7 +34,7 @@ export function MainHeader() {
               href="#dreaming-now"
               className="hover:text-emerald-700 transition-colors"
             >
-              Dreaming.now
+              dreaming.now
             </Link>
           </nav>
         </div>

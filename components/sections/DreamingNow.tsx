@@ -6,7 +6,7 @@ export function DreamingNow() {
     >
       <div className="container max-w-5xl mx-auto px-6">
         <h2 className="font-mono text-sm text-emerald-700 mb-10 uppercase tracking-wider">
-          Dreaming.now
+          dreaming.now
         </h2>
 
         <div className="max-w-3xl mx-auto text-center mb-16">
