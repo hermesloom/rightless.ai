@@ -17,6 +17,7 @@ import { WhyBreakLaws } from "@/components/sections/WhyBreakLaws";
 import { PseudoDemocracy } from "@/components/sections/PseudoDemocracy";
 import { AlternativeVision } from "@/components/sections/AlternativeVision";
 import { DreamingNow } from "@/components/sections/DreamingNow";
+import { DreamingNowPlatform } from "@/components/sections/DreamingNowPlatform";
 import { Epilogue } from "@/components/sections/Epilogue";
 
 export default function Home() {
@@ -42,6 +43,7 @@ export default function Home() {
         <PseudoDemocracy />
         <AlternativeVision />
         <DreamingNow />
+        <DreamingNowPlatform />
         <Epilogue />
       </main>
 

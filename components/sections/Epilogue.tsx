@@ -54,6 +54,15 @@ export function Epilogue() {
               Join us in this work of imagination and creation. The future is
               not yet written.
             </p>
+
+            <div className="mt-16 opacity-60 hover:opacity-100 transition-opacity">
+              <a
+                href="https://start.dreaming.now"
+                className="font-mono text-sm tracking-wider text-stone-500 hover:text-emerald-300 transition-colors"
+              >
+                start.dreaming.now
+              </a>
+            </div>
           </div>
         </div>
       </div>
