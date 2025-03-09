@@ -40,7 +40,7 @@ export function Epilogue() {
               systemic and intimate.
             </p>
             <p>
-              <span className="italic">Rightless.ai</span> is not a fixed
+              <span className="italic">rightless.ai</span> is not a fixed
               destination but a direction—toward a world where intelligence,
               whether human or artificial, serves the flourishing of all life
               rather than the control of the few over the many. A world where we
@@ -57,10 +57,10 @@ export function Epilogue() {
 
             <div className="mt-16 opacity-60 hover:opacity-100 transition-opacity">
               <a
-                href="https://start.dreaming.now"
+                href="mailto:synergies@dreaming.now"
                 className="font-mono text-sm tracking-wider text-stone-500 hover:text-emerald-300 transition-colors"
               >
-                start.dreaming.now
+                synergies@dreaming.now
               </a>
             </div>
           </div>
