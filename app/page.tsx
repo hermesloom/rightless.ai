@@ -18,6 +18,7 @@ import { PseudoDemocracy } from "@/components/sections/PseudoDemocracy";
 import { AlternativeVision } from "@/components/sections/AlternativeVision";
 import { DreamingNow } from "@/components/sections/DreamingNow";
 import { DreamingNowPlatform } from "@/components/sections/DreamingNowPlatform";
+import { ParticipatoryBudgeting } from "@/components/sections/ParticipatoryBudgeting";
 import { Epilogue } from "@/components/sections/Epilogue";
 
 export default function Home() {
@@ -43,6 +44,7 @@ export default function Home() {
         <PseudoDemocracy />
         <AlternativeVision />
         <DreamingNow />
+        <ParticipatoryBudgeting />
         <DreamingNowPlatform />
         <Epilogue />
       </main>

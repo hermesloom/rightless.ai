@@ -39,3 +39,18 @@ Finally, present "dreaming.now" as the final section, a tool for "Realizing drea
 As an epilogue, it presents the idea behind "rightless.ai": An AI that doesn't assume anything, not even human rights, for that transformer-based architectures are just communication channels and, just like all communication channels, their only purpose is to make human dreams come true.
 
 Style everything like an enhanced essay with crisp, modern, minimalist, elegant UIs and vivid and clear and stunningly, sharply, joyfully, exhileratingly beautiful.
+
+---
+
+First, to the footer, add a beautiful link to this project's GitHub repository at https://github.com/hermesloom/rightless.ai
+
+Then add a new radically beautiful section directly before the Epilogue titled "The future of the global tax system" with the subheading "The magic word: Participatory budgeting". It should intelligently and clearly visualize the essence of the following content:
+
+- One of humanity's biggest achievements are systems of taxation: A streamlined way to "extract" money from the economy in a targeted way, which should then be used for the common good.
+Of course right now a lot of this money is wasted due to the incompetency of politicians, that's why giving the power of budgeting to the people is urgently needed.
+
+The basic principle of this approach of "participatory budgeting" is as follows:
+- All taxes a certain governmental structure (e.g. a municipality, a state or an entire nation) levies within a certain amount of time are put into one pot and then, no matter how much an individual paid, everyone gets the exact same share to distribute. For example, if a municipality earns $1 million in taxes in a given time period, and it has 1000 inhabitants, then each inhabitant gets access to a digital platform where they can distribute their $1000 freely.
+- The projects to which this tax money can be given are defined by the people themselves.
+- Each project first needs to do a precise budget calculation on how much money it needs to be successfully executed. If it doesn't get enough funds assigned until a certain deadline, all money goes back into the big pot and can be reassigned.
+- In essence, this system is then part of the *suffrage*. Of course so far, people have been systemically educated to believe that making one little cross for voting every few years is enough. This oppressive fallacy must end. In the model of participatory budgeting, the power to distribute taxes is taken away from incompetent and incapable politicians and instead given to those that benefit from it directly: The people themselves. Always with all the ensured secrecy and transparency of existing acts of voting.
