@@ -29,8 +29,18 @@ export function ThoughtPath() {
               </p>
               <p>
                 This is the realm of Karl Jaspers' "enthusiastische Einstellung"
-                (enthusiastic attitude)—a passionate intellectual engagement
-                with the world that is neither detached nor purely theoretical.
+                <a
+                  href="https://resources.warburg.sas.ac.uk/pdf/dac720b2380926.pdf"
+                  className="text-amber-700 hover:text-amber-500 ml-0.5"
+                  title="Source document, see page 118"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <sup>[↗]</sup>
+                </a>
+                (enthusiastic attitude), which pushes beyond all limits, driven
+                by a restless longing for unity, where a person feels deeply
+                connected to the essence of the world.
               </p>
             </div>
           </div>
